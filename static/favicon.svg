@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="InvoiceNest">
+	<rect width="32" height="32" rx="7" fill="#1B2440" />
+	<!-- Nest: three stacked arcs cradling a document corner -->
+	<path d="M6 20c0-5.5 4.5-10 10-10s10 4.5 10 10" fill="none" stroke="#4F46E5" stroke-width="2.4" stroke-linecap="round" />
+	<path d="M9.5 22.5c0-3.6 2.9-6.5 6.5-6.5s6.5 2.9 6.5 6.5" fill="none" stroke="#8B87F0" stroke-width="2.2" stroke-linecap="round" />
+	<path d="M13 24.5c0-1.7 1.3-3 3-3s3 1.3 3 3" fill="none" stroke="#FAFAF7" stroke-width="2" stroke-linecap="round" />
+</svg>
