@@ -312,7 +312,7 @@ tests/
 
 ## Live demo
 
-- **Live app:** https://invoicenest.vercel.app
+- **Live app:** https://invoicenest-sandy.vercel.app
 - **GitHub:** https://github.com/DIVYAPRIYADHARSHINI-GIT/invoicenest
 
 The live site opens with the fictional sample data only. Any records you create there stay
